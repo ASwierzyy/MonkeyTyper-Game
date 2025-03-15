@@ -1,0 +1,5 @@
+adam3 28
+short 18
+adam2 16
+test 7
+medium 6
