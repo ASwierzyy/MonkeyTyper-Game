@@ -1,0 +1,38 @@
+# Ignore CLion-specific files
+.idea/
+cmake-build-*/
+
+# Ignore build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+
+# Ignore CMake cache files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Ignore compiled binaries and logs
+bin/
+build/
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+# Ignore CLion-specific files
+.idea/
+
+# Ignore CMake build directories
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
